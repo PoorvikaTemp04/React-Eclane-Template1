@@ -1,7 +1,7 @@
 # React-Eclane-Template1
 
 
-#To run the template
+### To run the template
 
 git clone https://github.com/PoorvikaTemp04/React-Eclane-Template1
 cd React-Eclane-Template1
